@@ -1,0 +1,25 @@
+{
+  "Magic": [
+    {
+      "Dracuseth": "dragon",
+      "power": 7,
+      "toughness": 7,
+      "ability": "Does 4 damage to one targe and then 3 to up to two others.",
+      "id": 2
+    },
+    {
+      "Kaalia The Vast": "Cleric",
+      "power": 2,
+      "toughness": 2,
+      "colors": "WBR",
+      "id": 3
+    },
+    {
+      "Kaalia The Vast": "Cleric",
+      "power": 2,
+      "toughness": 2,
+      "colors": "WBR",
+      "id": 4
+    }
+  ]
+}

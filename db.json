@@ -9,6 +9,16 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Another Book",
+      "content": "More Tech",
+      "id": 4
     }
   ]
 }
